@@ -18,21 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Ivan Ong - Game Development Programmer
-#logo:  # as an example:/assets/img/headshot_circle.png
+title: github portfolio
 email: ongzs.ivan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Whoops - you shouldn't be here!
-  Check out my proper portfolio at https://ongzs-ivan.github.io/
+  github portfolio of Ivan Ong Zhisien
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://ongzs-ivan.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ongzs-ivan.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  ongzs-ivan
-show_downloads: false # true to allow people to download your code, false otherwise
+
 # Build settings
-theme: jekyll-theme-minimal
-#plugins:
-#  - jekyll-feed
+theme: minima
+plugins:
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -1,0 +1,19 @@
+- name: GitHub
+  url: mailto:ongzs.ivan@gmail.com
+  class: icon-mail
+  title: "Gmail - feel free to message me"
+
+- name: GitHub
+  url: https://github.com/ongzs-ivan
+  class: icon-github
+  title: "Github - Where I upload some project repositories"
+
+- name: LinkedIn
+  url: https://www.linkedin.com/in/ivan-ong-a4522870/
+  class: icon-linkedin
+  title: "LinkedIn - Connect to my social network"
+
+- name: itch.io
+  url: https://ongzs-ivan.itch.io/
+  class: icon-globe
+  title: "itch.io - Where I upload some of my personal projects"

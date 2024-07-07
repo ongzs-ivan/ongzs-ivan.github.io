@@ -1,12 +1,12 @@
-# frozen_string_literal: true
+source 'https://rubygems.org'
 
-source "https://rubygems.org"
-
-# gem "rails"
+gem 'jekyll'
 
 group :jekyll_plugins do
-    gem "jekyll", "~> 4.3"
-    gem "jekyll-theme-minimal"
+  gem 'jekyll-gist'
+  gem 'jekyll-paginate'
+  gem "jekyll-asciidoc"
 end
-group :other_plugins do
-end
+
+gem 'asciidoctor', '~> 1.5.4'
+gem 'coderay', '1.1.1'

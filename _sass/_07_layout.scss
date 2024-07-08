@@ -84,9 +84,11 @@ body.video cite { color: #fff; }
     text-shadow: 0 2px 3px rgba(0,0,0,.4);
 }
 #masthead-no-image-header {
+    text-align: center;
     height: 175px;
 }
 #masthead-no-image-header #logo img {
+    text-align: center;
     margin-top: 60px;
 }
 
@@ -126,7 +128,7 @@ body.video cite { color: #fff; }
         margin-bottom: 15px;
     }
     #masthead {
-        height: 20px;
+        height: 280px;
     }
     #masthead-with-pattern {
         padding: 20px 0;
@@ -170,11 +172,11 @@ body.video cite { color: #fff; }
 
 @media #{$xlarge-up} {
     #logo img {
-        margin-top: 50px;
-        margin-bottom: 50px;
+        margin-top: 65px;
+        margin-bottom: 0px;
     }
     #masthead {
-        height: 30px;
+        height: 200px;
     }
     #masthead-with-pattern {
         padding: 45px 0;
@@ -271,7 +273,7 @@ body.video cite { color: #fff; }
 
 #footer-content p,
 #footer-content li {
-    font-size: rem-calc(18);
+    font-size: rem-calc(15);
     font-weight: 300;
 }
 

@@ -1,10 +1,13 @@
 ---
 layout: page-fullwidth
-title: "Show your beautiful work!"
-subheadline: "Portfolio"
-teaser: "With <em>Feeling Responsive</em> you don't need a special portfolio template. Just check out the great possibilities of the <a href='http://foundation.zurb.com/docs/components/grid.html'>foundation grid</a> and experiment with it."
+show_meta: false
+subheadline: "Titles"
+teaser: "Official game titles I've worked on"
+header:
+   image_fullwidth  : "header_unsplash_2-970x.jpg"
 categories:
-    - design
+    - portfolio
+permalink: "/portfolio/titles/"
 ---
 <!--more-->
 
@@ -37,4 +40,3 @@ categories:
         <p>Website: <a href="https://moritz.sauer.io/">Webdesign, SEO, Music</a></p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
-

@@ -21,7 +21,7 @@ Under the game studio, <a href = "https://double11.com/"><b>Double Eleven</b></a
 </p>
 
 <p>
-Outside of programming, I have some experience in game design and I hope to create my own mecha-themed games in the future.
+Outside of programming, I have some experience in game design and I hope to create my own series of mecha-themed games in the future.
 </p>
 
 </div>

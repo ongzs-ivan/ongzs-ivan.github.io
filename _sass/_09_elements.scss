@@ -126,6 +126,25 @@ dd.accordion-navigation.active span:before { content: "\F105" }
 dd.accordion-navigation.active span:before { content: "\F105" }
 
 
+/* Image with centred text
+------------------------------------------------------------------- */
+
+.linkmage {
+  position: relative;
+  width: 100%;
+  text-align: center;
+}
+
+.linkmage-text {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+
+}
+
+
 
 /* Lazy Load XT
 ------------------------------------------------------------------- */

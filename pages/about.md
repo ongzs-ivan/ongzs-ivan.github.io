@@ -17,7 +17,7 @@ I am well versed in Debugging, Networking and Gameplay programming.
 </p>
 
 <p>
-Under the game studio, <a href = "https://double11.com/"><b>Double Eleven</b></a>, I gained significant experience on porting games from PC to various consoles where I worked on a couple of reputable titles such as <a href = "https://www.minecraft.net/en-us/about-dungeons"><b>Minecraft Dungeons</b></a>, <a href = "https://www.paradoxinteractive.com/games/prison-architect-2/about"><b>Prison Architect 2</b></a> and <a href = "https://rust.double11.com/"><b>Rust: Console Edition</b></a>.
+Under my current company, <a href = "https://double11.com/"><b>Double Eleven</b></a>, I gained significant experience in porting games from PC to consoles where I worked on reputable titles such as <a href = "https://www.minecraft.net/en-us/about-dungeons"><b>Minecraft Dungeons</b></a>, <a href = "https://www.paradoxinteractive.com/games/prison-architect-2/about"><b>Prison Architect 2</b></a> and <a href = "https://rust.double11.com/"><b>Rust: Console Edition</b></a>.
 </p>
 
 <p>

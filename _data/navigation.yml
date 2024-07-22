@@ -10,8 +10,8 @@
   url: "/portfolio/"
   side: left
   dropdown:
-  - title: "Titles"
-    url: "/portfolio/titles/"
+  - title: "Professional"
+    url: "/portfolio/professional/"
   - title: "Personal"
     url: "/portfolio/personal/"
   - title: "Etc"

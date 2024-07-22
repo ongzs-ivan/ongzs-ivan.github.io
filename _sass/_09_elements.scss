@@ -133,17 +133,22 @@ dd.accordion-navigation.active span:before { content: "\F105" }
   position: relative;
   width: 100%;
   text-align: center;
+  opacity: 100%;
 }
 
-.linkmage-text {
+.linkmage-panel {
   position: absolute;
+  border-radius: 5%;
   left: 50%;
   top: 50%;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: rgb(223, 223, 223);
+  opacity: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
-
+  font-size: 48px;
 }
-
 
 
 /* Lazy Load XT

@@ -16,6 +16,4 @@ permalink           : "/contact/"
 			</li>
 		{% endfor %}
 	</ul>
-
-	(I respond fastest by email)
 </div>

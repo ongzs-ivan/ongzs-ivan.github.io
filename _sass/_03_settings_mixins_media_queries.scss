@@ -413,8 +413,8 @@ $cursor-text-value: text !default;
     body {
       background: $body-bg;
       background-image: url('../img/vscode-bg.jpg');
-      background-color: #D7D7D7;
-      background-blend-mode:screen;
+      background-color: #c4c4c4f1;
+      background-blend-mode:lighten;
       background-repeat: no-repeat;
       background-attachment: fixed;
       background-size: 100% 100%;

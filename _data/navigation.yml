@@ -23,8 +23,10 @@
   dropdown:
   - title: "Online CV"
     url: "https://ongzs-ivan.github.io/onlinecv/"
-  - title: "PDF CV"
+  - title: "as PDF"
     url: "https://ongzs-ivan.github.io/onlinecv/assets/resume.pdf"
+  - title: "as Word Doc"
+    url: "https://docs.google.com/document/d/1SflFPFaCU9hMtV-3daisCrlHmZ3OqQUqJo3voSpUfUQ/"
 
 - title: "Contact Me"
   url: "/contact/"
